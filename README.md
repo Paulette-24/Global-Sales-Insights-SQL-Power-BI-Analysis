@@ -1,1 +1,2 @@
-# Global-Sales-Insights-SQL-Power-BI-Analysis
+# Global Sales Insights: SQL & Power BI Analysis
+
