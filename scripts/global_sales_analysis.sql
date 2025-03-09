@@ -1,5 +1,5 @@
 -- =======================================================
--- 📌 GLOBAL SALES DATA ANALYSIS | SQL POWER BI PROJECT
+-- GLOBAL SALES DATA ANALYSIS | SQL POWER BI PROJECT
 -- Description: SQL queries for cleaning, transforming, and analyzing
 -- multi-country sales data using PostgreSQL.
 -- =======================================================
