@@ -69,7 +69,7 @@ The dataset contains sales transactions from multiple store locations across six
 - Store Performance Analysis  
 - Profitability vs Discounts  
 
-📜 **Full SQL script available in** ➝ [`global_sales_analysis.sql`](sql_queries/global_sales_analysis.sql)  
+📜 **Full SQL script available in** ➝ [`global_sales_analysis.sql`](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/scripts/global_sales_analysis.sql)  
 
 ---
 
