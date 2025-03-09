@@ -9,7 +9,7 @@
 ---
 
 ## **Project Overview**  
-This project analyzes e-commerce sales data collected from six different countries. The SQL queries clean, merge, and process raw data, while Power BI visualizations highlight sales trends, top-performing products, and profit insights.  
+This project analyzes sales data collected from six different countries. The SQL queries clean, merge, and process raw data, while Power BI visualizations highlight sales trends, top-performing products, and profit insights.  
 
 The project focuses on business questions such as:
 
@@ -73,4 +73,34 @@ The dataset contains sales transactions from multiple store locations across six
 
 ---
 
-## Data Analysis & Insights  
+## Data Analysis & Insights
+### **1. Sales By Store Location** 
+Which locations generated the highest sales revenue?
+
+### **2. Total Sales By Category**
+Which product categories performed best in sales?
+
+### **3. % Sales By Payment Method**
+Which payment method was most used?
+
+### **4. Daily Sales Trends**
+How does daily revenue fluctuate?
+
+### **5. Monthly Sales Trends**
+How does revenue vary across months?
+
+### **6. Discount Given vs Profit**
+How do discounts affect profitability?
+
+## Conclusion
+The analysis provided several key business insights:
+- The US and UK generate the most revenue, while India & Nigeria have significant growth potential.
+- The best-selling products are Electronics & Clothing, driving major revenue.
+- Stores in New York, London, and Lagos consistently outperform other locations.
+- Higher discounts drive sales but reduce profitability. Optimizing discount strategies is key.
+  
+## Business Recommendations
+- Adjust pricing strategies to maximize profitability while maintaining competitive discounts.
+- Expand top-selling product categories to regions with high demand.
+- Improve marketing efforts in emerging markets (India, Nigeria) to increase sales.
+
