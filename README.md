@@ -4,7 +4,7 @@
 
 ## Links  
 - [Power BI Interactive Dashboard](https://app.powerbi.com/links/sfIaJW2rS1?ctid=4c5047b5-8a6a-41e5-9b38-a22733488826&pbi_source=linkShare)  
-- [GitHub Repository](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis)  
+- [GitHub Repository](https://github.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/tree/main)  
 
 ---
 
