@@ -1,6 +1,6 @@
 # Global Sales Insights: SQL & Power BI Analysis
 
-![Sales](https://your-image-link.com/powerbi_dashboard.png)
+![Sales]([https://github.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/sales%20trends.jpg])
 
 ## Links  
 - [Power BI Interactive Dashboard](https://app.powerbi.com/view?r=YOUR_EMBEDDED_LINK)  
@@ -76,21 +76,28 @@ The dataset contains sales transactions from multiple store locations across six
 ## Data Analysis & Insights
 ### **1. Sales By Store Location** 
 Which locations generated the highest sales revenue?
+![Sales by Store Location](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/sales%20by%20store%20location.jpg)
 
 ### **2. Total Sales By Category**
 Which product categories performed best in sales?
+![Total Sales By Category](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/total%20sales%20by%20category.jpg)
 
 ### **3. % Sales By Payment Method**
 Which payment method was most used?
+![Sales By Payment Method](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/percentage%20sales%20by%20payment%20method.jpg)
 
 ### **4. Daily Sales Trends**
 How does daily revenue fluctuate?
+![Daily Sales Trends](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/daily%20sales%20trends.jpg)
 
 ### **5. Monthly Sales Trends**
 How does revenue vary across months?
+![Monthly Sales Trends](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/Monthly%20Sales%20Trends.jpg)
 
 ### **6. Discount Given vs Profit**
 How do discounts affect profitability?
+
+![Discount Given vs Profit](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/discount%20given%20vs%20profit.jpg)
 
 ## Conclusion
 The analysis provided several key business insights:
