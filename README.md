@@ -1,6 +1,6 @@
 # Global Sales Insights: SQL & Power BI Analysis
 
-![Sales]([https://github.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/sales%20trends.jpg])
+![image](https://raw.githubusercontent.com/Paulette-24/Global-Sales-Insights-SQL-Power-BI-Analysis/main/images/sales%20trends.jpg)
 
 ## Links  
 - [Power BI Interactive Dashboard](https://app.powerbi.com/view?r=YOUR_EMBEDDED_LINK)  
